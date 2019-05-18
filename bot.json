@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"TrxBankbot",
+  "git_remote":"git@github.com:Blink128net/mybot",
+  "csv_url":"https://drive.google.com/file/d/1VdnKeGjUUhqyqsNR2xPHmlkPDd8MdUSG/view?usp=drivesdk"
+}
